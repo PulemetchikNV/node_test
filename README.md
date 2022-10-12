@@ -3,7 +3,7 @@
 
 2. Инициализация проекта:
       - Создать файл package.json командой npm init
-      - Установить зависимости npm install mysql2 express
+      - Установить зависимости (mysql2 для работы с mysql и express для создания сервера)`npm install mysql2 express`
     
 3. Создать бд на mysql. Таблицы: Users и Posts с полями: 
       - Users: id, first_name, last_name
